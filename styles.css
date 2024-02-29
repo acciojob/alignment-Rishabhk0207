@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+table,tr,td{
+	border:1px solid black;
+	height:10px;
+	width:500px;
+	
+}
+#t31{
+	background-color:green;
+}
+#t33{
+	background-color:blue;
+}
